@@ -1,6 +1,6 @@
 Introduction
 	
-	Speed dating has been a way to meet a potential romantic partner for many years. In 2002-2004, a speed dating experiment was conducted on graduate students from Columbia University by researchers to find out if there are certain traits and attributes that a person desires for a potential mate based on gender differences. Using the data from this survey, I aimed to predict the likelihood that two speed daters, based on certain attributes, would both agree to a second date.
+Speed dating has been a way to meet a potential romantic partner for many years. In 2002-2004, a speed dating experiment was conducted on graduate students from Columbia University by researchers to find out if there are certain traits and attributes that a person desires for a potential mate based on gender differences. Using the data from this survey, I aimed to predict the likelihood that two speed daters, based on certain attributes, would both agree to a second date.
 
 Format of Survey
 
