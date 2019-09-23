@@ -1,4 +1,5 @@
 Introduction
+	
 	Speed dating has been a way to meet a potential romantic partner for many years. In 2002-2004, a speed dating experiment was conducted on graduate students from Columbia University by researchers to find out if there are certain traits and attributes that a person desires for a potential mate based on gender differences. Using the data from this survey, I aimed to predict the likelihood that two speed daters, based on certain attributes, would both agree to a second date.
 
 Format of Survey
@@ -33,4 +34,5 @@ Logistic Regression: I then performed a logistic regression to predict whether a
 Without knowing the partner’s decision, if the subject liked the partner and decided on a second date, there is an 83% chance that the partner thought the same and there is a match!
 
 Validating the Model
+
 I performed cross-validation in order to validate the model.
