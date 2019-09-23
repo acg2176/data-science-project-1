@@ -24,16 +24,20 @@ Majority of speed daters were Caucasian for both genders.
 Majority of males were pursuing business degrees while majority of females were pursuing Education.
 Majority of males were in banking, consulting, finance, and business.
 Majority of females were in academia and research
+
 Gender Differences
+
 Males desired Attractiveness in a partner more than females.
-Females desired Intelligence and Ambition in a partner.
+Females desired Intelligence and Ambition in a partner more than males.
+
 Correlation Heatmap: none of the 6 attributes seemed to have a correlation with the variable ‘match’.
-More males get more rejections than females for a second date
+More males get more rejections than females for a second date.
 
 
 Data Modeling
 
-Linear Regression: I performed a linear regression to predict the probability that a person would want a second date based on all 6 attributes. I performed another linear regression model that predicted the likelihood of a match (where both parties say yes to a second date) based on ratings of 6 attributes by both parties. Seems like in both cases 
+Linear Regression: I performed a linear regression to predict the probability that a person would want a second date based on all 6 attributes. I performed another linear regression model that predicted the likelihood of a match (where both parties say yes to a second date) based on ratings of 6 attributes by both parties. Seems like in both cases, the 6 attributes did not explain much about why a match would be made. (R squared is weak.)
+ 
 Logistic Regression: I then performed a logistic regression to predict whether a match could be made just knowing the decision of the subject (to see the partner for a second date) and if the subject generally liked the partner.
 Without knowing the partner’s decision, if the subject liked the partner and decided on a second date, there is an 83% chance that the partner thought the same and there is a match!
 
