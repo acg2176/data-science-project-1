@@ -7,9 +7,9 @@ Format of Survey
 Pre-Survey: Subjects were made to fill out a pre-survey based on their profile (i.e. race, degree, gender, etc.), desired attributes they wanted in a partner, and their preferences for a date (e.g. movie, museums, hiking, etc.)
 Speed Dating scorecard: Subjects scored the partner based on 6 attributes: Intelligence, Ambition, Sincerity, Attractiveness, Shared Interests, and Fun. The subjects also scored how much they generally liked the partner and if they would go on a second date with them.
 
-Source of Dataset
+Source of Dataset: (http://www.stat.columbia.edu/~gelman/arm/examples/speed.dating/)
 
-The dataset was taken from Kaggle. Reference for the study conducted can be found here.
+The dataset was taken from Kaggle. Reference for the study conducted can be found here: https://faculty.chicagobooth.edu/emir.kamenica/documents/genderDifferences.pdf.
 This dataset has 8379 rows and 195 columns.
 
 Data Cleaning
