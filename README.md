@@ -36,8 +36,7 @@ More males get more rejections than females for a second date.
 
 Data Modeling
  
-Logistic Regression: I then performed a logistic regression to predict whether a match could be made just knowing the decision of the subject (to see the partner for a second date) and if the subject generally liked the partner.
-Without knowing the partner’s decision, if the subject liked the partner and decided on a second date, there is an 83% chance that the partner thought the same and there is a match!
+Classifiers used: Logistic Regression, K-Nearest Neighbors, Random Forest Classifier
 
 Validating the Model
 
